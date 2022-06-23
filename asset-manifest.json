@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-coinbase-landing-with-styled-components/static/css/main.6e442237.css",
+    "main.js": "/react-coinbase-landing-with-styled-components/static/js/main.6020d968.js",
+    "static/media/about.png": "/react-coinbase-landing-with-styled-components/static/media/about.6713d5aa6adaddde4f7a.png",
+    "static/media/home.png": "/react-coinbase-landing-with-styled-components/static/media/home.a9136be591eabf538074.png",
+    "static/media/spacemen.png": "/react-coinbase-landing-with-styled-components/static/media/spacemen.2b581b08cad1126d0e93.png",
+    "static/media/card.png": "/react-coinbase-landing-with-styled-components/static/media/card.f9017bf395d5cc4917d5.png",
+    "static/media/signupBackground.png": "/react-coinbase-landing-with-styled-components/static/media/signupBackground.a9042bba874ddb162045.png",
+    "static/media/cards.png": "/react-coinbase-landing-with-styled-components/static/media/cards.c40e6d333024dffc029c.png",
+    "index.html": "/react-coinbase-landing-with-styled-components/index.html",
+    "main.6e442237.css.map": "/react-coinbase-landing-with-styled-components/static/css/main.6e442237.css.map",
+    "main.6020d968.js.map": "/react-coinbase-landing-with-styled-components/static/js/main.6020d968.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e442237.css",
+    "static/js/main.6020d968.js"
+  ]
+}
